@@ -32,7 +32,8 @@
 
 .logo {
    grid-column: 1 2;
-   justify-items: end;
+   justify-items: start;
+   align-items: center;
 }
 
 
