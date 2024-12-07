@@ -1,1 +1,17 @@
 @import 'nav.css';
+
+.hero-section {
+    width: 100%;
+    height: calc(100vh - 120px);
+    background-image: url('../img/MMC_Mooodboard.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-section .hero-logo {
+    height: 150px;
+    display: block;
+    margin: auto;
+}
