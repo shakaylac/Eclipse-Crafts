@@ -1,5 +1,6 @@
 const productImages = document.querySelectorAll(".product-images img"); // selecting all image thumbs
 const productImageSlide = document.querySelector(".image-slider"); // seclecting image slider element
+const productBtn = document.getElementByclass("product-image");
 
 let activeImageSlide = 0; // default slider image
 
@@ -25,3 +26,4 @@ sizeBtns.forEach((item, i) => { // looping through each button
         checkedBtn = i; // upading the variable
     })
 })
+

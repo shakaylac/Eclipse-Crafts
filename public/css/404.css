@@ -6,25 +6,12 @@
     max-height: 100%;
 }
 
-.text {
-    text-transform: capitalize;
-    color: var(--dark-brown);
-    position: absolute;
-    z-index: 9;
-    padding-top: 30px;
-    padding-left: 460px;
-}
-
-.four-0-four-text {
-    text-align: center;
-    font-size: 18rem;
-    padding-bottom: 0px;
-}
-
 
 .four-0-four-msg{
+    text-transform: capitalize;
+    color: var(--dark-brown);
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     padding-top: 0px;
 }
 

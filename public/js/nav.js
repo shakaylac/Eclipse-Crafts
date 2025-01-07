@@ -1,6 +1,6 @@
 const createNav = () => {
     let nav = document.querySelector('.navbar');
-    let links = document.querySelector('links-con');
+    //let links = document.querySelector('links-con');
 
     nav.innerHTML = `
     <div class="nav">
